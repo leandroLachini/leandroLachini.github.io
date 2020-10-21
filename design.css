@@ -22,6 +22,7 @@ body{
     text-decoration: none;
     margin: 10px 10px;
     display: inline-block;
+    vertical-align: middle;
     }
 
 /* .menu {
@@ -38,7 +39,7 @@ body{
 .picture{
     border: solid 3px;
     border-color: #048243;
-    width: 100%;
+    width: 80%;
     margin-right: 10px;
 }
 
@@ -95,8 +96,8 @@ p{
 }
 
 .skills_3.1 {
-    width: 50%;
+    width: 10%;
     display: inline-block;
-    vertical-align: top;
+   
 }
 
